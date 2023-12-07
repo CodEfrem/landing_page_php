@@ -1,7 +1,5 @@
 <?php
 
-
-
 echo '
 
 <section class="page-section portfolio" id="portfolio">

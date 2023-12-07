@@ -1,5 +1,5 @@
 <?php
-// header.php
+
 
 echo '
 <header class="masthead bg-primary text-white text-center">
